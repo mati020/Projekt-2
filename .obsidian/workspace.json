@@ -11,15 +11,36 @@
             "id": "4a28d09f44c3365a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Projekt2/Pasted image 20230514102617.png"
+              }
+            }
+          },
+          {
+            "id": "c31383803531c0e2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Projekt2/Pasted image 20230514102617.png"
+              }
+            }
+          },
+          {
+            "id": "ea926d58795404d8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+                "file": "Projekt2/Zadanie 3 - Analiza ruchu HTTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+                "file": "Projekt2/Zadanie 3 - Analiza ruchu HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+                "file": "Projekt2/Zadanie 3 - Analiza ruchu HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md"
+                "file": "Projekt2/Zadanie 3 - Analiza ruchu HTTP.md"
               }
             }
           }
@@ -154,25 +175,25 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "4a28d09f44c3365a",
+  "active": "ea926d58795404d8",
   "lastOpenFiles": [
     "Projekt2/Zadanie 1 - Łamanie haseł (met. brute-force).md",
+    "Projekt2/Pasted image 20230514102617.png",
+    "Projekt2/Pasted image 20230514102841.png",
+    "Projekt2/Pasted image 20230514102654.png",
+    "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
     "Projekt2/Zadanie 5 - Analiza ruchu FTP.md",
     "Projekt2/Zadanie 3 - Analiza ruchu HTTP.md",
     "Projekt2/README.md",
     "Projekt-2",
     "Projekt2/Zadanie 4 - Analiza ruchu SSH.md",
-    "Pasted image 20230520132148.png",
-    "Pasted image 20230520132126.png",
-    "Pasted image 20230520115645.png",
-    "Pasted image 20230520115529.png",
-    "Pasted image 20230520115417.png",
-    "Pasted image 20230520115359.png",
-    "Pasted image 20230520114631.png",
-    "Pasted image 20230520114554.png",
-    "Pasted image 20230520114516.png",
-    "Pasted image 20230520114406.png",
-    "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+    "Projekt2/Pasted image 20230520132148.png",
+    "Projekt2/Pasted image 20230520132126.png",
+    "Projekt2/Pasted image 20230520115645.png",
+    "Projekt2/Pasted image 20230520115529.png",
+    "Projekt2/Pasted image 20230520115417.png",
+    "Projekt2/Pasted image 20230520115359.png",
+    "Projekt2/Pasted image 20230520114631.png",
     "Red team Metody omijania zabezpieczeń.md",
     "Projekt2"
   ]
