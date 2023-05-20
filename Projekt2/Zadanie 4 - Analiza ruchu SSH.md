@@ -1,7 +1,9 @@
 Maszyna SDA: 
+
 ![](20230520095701.png)
 
 Maszyna Kali: 
+
 
 ![](20230520095720.png)
 
@@ -12,7 +14,7 @@ Nawiązanie połączenie pomiędzy Kalim a SDA po SSH
 Tworzenie plików sekret1.txt i sekret2.txt z tajnymi hasłami.
 
 ![](20230520100410.png)
-![[20230520100614.png]]
+![](20230520100614.png)
 
 ![](20230520100525.png)
 
