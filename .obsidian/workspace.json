@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "2ae375e242633c5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb656a28417b23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a28d09f44c3365a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d69ef140a8e908cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ce5a56d060d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9f14ae53f17d47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26850b2a3264ae3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "879c8fd73d32b696",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9afda2e45fd78a2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db0a2127438ef050",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7616c65e6bcc866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f5a811d96ee70a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ba7bad0c290e006",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b0229cf18abd809",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbfd8f31a97fcffa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Stwórz nowe płótno": false,
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "4a28d09f44c3365a",
+  "lastOpenFiles": [
+    "Projekt2/Zadanie 1 - Łamanie haseł (met. brute-force).md",
+    "Projekt2/Zadanie 5 - Analiza ruchu FTP.md",
+    "Projekt2/Zadanie 3 - Analiza ruchu HTTP.md",
+    "Projekt2/README.md",
+    "Projekt-2",
+    "Projekt2/Zadanie 4 - Analiza ruchu SSH.md",
+    "Pasted image 20230520132148.png",
+    "Pasted image 20230520132126.png",
+    "Pasted image 20230520115645.png",
+    "Pasted image 20230520115529.png",
+    "Pasted image 20230520115417.png",
+    "Pasted image 20230520115359.png",
+    "Pasted image 20230520114631.png",
+    "Pasted image 20230520114554.png",
+    "Pasted image 20230520114516.png",
+    "Pasted image 20230520114406.png",
+    "Projekt2/Zadanie 2 - Łamanie haseł (met. słownikowa).md",
+    "Red team Metody omijania zabezpieczeń.md",
+    "Projekt2"
+  ]
+}
