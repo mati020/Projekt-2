@@ -4,7 +4,7 @@ www.tunnelsup.com/hash-analyzer/ lub innego narzędzia.
 Następnie rozszyfrowanie hasła za pomoca hashcat lub innych dostępnych opcji.
 
 1. 81dc9bdb52d04dc20036dbd8313ed055
-![[Pasted image 20230514102617.png]]
+![](20230514102617.png)
 
 ![[Pasted image 20230514110751.png]]
 
